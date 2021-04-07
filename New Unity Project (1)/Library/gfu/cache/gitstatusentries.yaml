@@ -1,0 +1,1166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-04-07T14:06:02.742-07:00
+  initializedAtString: 2021-04-07T14:06:02.742-07:00
+  entries:
+  - path: New Unity Project (1)/Assets/Plugins.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ArtifactDB
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/Artifacts/03/03baebd99f983be1ed5ddc393c893af0
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/03/03baebd99f983be1ed5ddc393c893af0
+    projectPath: Library/Artifacts/03/03baebd99f983be1ed5ddc393c893af0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/0c/0cb8f9ef330a7fdfd9797ce23e675b9f
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/0c/0cb8f9ef330a7fdfd9797ce23e675b9f
+    projectPath: Library/Artifacts/0c/0cb8f9ef330a7fdfd9797ce23e675b9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/10/10627b1eb5a0236d72a1c7331f17a652
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/10/10627b1eb5a0236d72a1c7331f17a652
+    projectPath: Library/Artifacts/10/10627b1eb5a0236d72a1c7331f17a652
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/13/13c214c83fb02fee34a2489e7d3043cd
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/13/13c214c83fb02fee34a2489e7d3043cd
+    projectPath: Library/Artifacts/13/13c214c83fb02fee34a2489e7d3043cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/14/1404163d5301889d814eb77330ed79a6
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/14/1404163d5301889d814eb77330ed79a6
+    projectPath: Library/Artifacts/14/1404163d5301889d814eb77330ed79a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/16/1605b12c8717c14b94303bf590ca928d
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/16/1605b12c8717c14b94303bf590ca928d
+    projectPath: Library/Artifacts/16/1605b12c8717c14b94303bf590ca928d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/19/1992ca75884a4b7ca7e8690fc13af832
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/19/1992ca75884a4b7ca7e8690fc13af832
+    projectPath: Library/Artifacts/19/1992ca75884a4b7ca7e8690fc13af832
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/28/286549865de6577c89fcdf899bbc3da5
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/28/286549865de6577c89fcdf899bbc3da5
+    projectPath: Library/Artifacts/28/286549865de6577c89fcdf899bbc3da5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/2c/2ca1a5c08babd781759e1105a970f3d1
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/2c/2ca1a5c08babd781759e1105a970f3d1
+    projectPath: Library/Artifacts/2c/2ca1a5c08babd781759e1105a970f3d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/38/386d8f33200eba71af687d465456fa97
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/38/386d8f33200eba71af687d465456fa97
+    projectPath: Library/Artifacts/38/386d8f33200eba71af687d465456fa97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/46/467ee123f350348d0eb978a6d88674bc
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/46/467ee123f350348d0eb978a6d88674bc
+    projectPath: Library/Artifacts/46/467ee123f350348d0eb978a6d88674bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/50/50c0624a5aca0dc7770e2bd3893bbd16
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/50/50c0624a5aca0dc7770e2bd3893bbd16
+    projectPath: Library/Artifacts/50/50c0624a5aca0dc7770e2bd3893bbd16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/54/540ecac5bce87250563646062543133b
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/54/540ecac5bce87250563646062543133b
+    projectPath: Library/Artifacts/54/540ecac5bce87250563646062543133b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/58/586b29326b339c48d9f54af8ac596b86
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/58/586b29326b339c48d9f54af8ac596b86
+    projectPath: Library/Artifacts/58/586b29326b339c48d9f54af8ac596b86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/58/588ae441ff682cc6cae6ed05382c093c
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/58/588ae441ff682cc6cae6ed05382c093c
+    projectPath: Library/Artifacts/58/588ae441ff682cc6cae6ed05382c093c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/5c/5c443fc7bf523538ec429fbd922cebee
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/5c/5c443fc7bf523538ec429fbd922cebee
+    projectPath: Library/Artifacts/5c/5c443fc7bf523538ec429fbd922cebee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/6a/6ac962224743b8557d16b15688dcc391
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/6a/6ac962224743b8557d16b15688dcc391
+    projectPath: Library/Artifacts/6a/6ac962224743b8557d16b15688dcc391
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/71/7163f8f5775dcd7fb95dc7099411eca4
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/71/7163f8f5775dcd7fb95dc7099411eca4
+    projectPath: Library/Artifacts/71/7163f8f5775dcd7fb95dc7099411eca4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/75/75682a1337cb585bbecf6eca144ad118
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/75/75682a1337cb585bbecf6eca144ad118
+    projectPath: Library/Artifacts/75/75682a1337cb585bbecf6eca144ad118
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/75/759d21c2f66651e1c1caabe9e6bbd91d
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/75/759d21c2f66651e1c1caabe9e6bbd91d
+    projectPath: Library/Artifacts/75/759d21c2f66651e1c1caabe9e6bbd91d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/7c/7c4124eeb6c993c6415167b1e8221a07
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/7c/7c4124eeb6c993c6415167b1e8221a07
+    projectPath: Library/Artifacts/7c/7c4124eeb6c993c6415167b1e8221a07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/88/888c1b09cbc462c8d1f0149acd4084c8
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/88/888c1b09cbc462c8d1f0149acd4084c8
+    projectPath: Library/Artifacts/88/888c1b09cbc462c8d1f0149acd4084c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/94/9419e656bfbd0b8461f90a35f0b78672
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/94/9419e656bfbd0b8461f90a35f0b78672
+    projectPath: Library/Artifacts/94/9419e656bfbd0b8461f90a35f0b78672
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/9c/9c1715d5442a240e014ce2d01c15ee4e
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/9c/9c1715d5442a240e014ce2d01c15ee4e
+    projectPath: Library/Artifacts/9c/9c1715d5442a240e014ce2d01c15ee4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/9f/9fdc965021b6120940913ceb4e8c619d
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/9f/9fdc965021b6120940913ceb4e8c619d
+    projectPath: Library/Artifacts/9f/9fdc965021b6120940913ceb4e8c619d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/a0/a04c089292b0f2f569ba87cb30f84174
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/a0/a04c089292b0f2f569ba87cb30f84174
+    projectPath: Library/Artifacts/a0/a04c089292b0f2f569ba87cb30f84174
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/a2/a28b1b0232bd6a4d5166a220cfd8bb27
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/a2/a28b1b0232bd6a4d5166a220cfd8bb27
+    projectPath: Library/Artifacts/a2/a28b1b0232bd6a4d5166a220cfd8bb27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/a3/a39fa1ac37d7e6a7ae417e1813069720
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/a3/a39fa1ac37d7e6a7ae417e1813069720
+    projectPath: Library/Artifacts/a3/a39fa1ac37d7e6a7ae417e1813069720
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/a3/a3efa46c00edf779461cd91e85e1e5c1
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/a3/a3efa46c00edf779461cd91e85e1e5c1
+    projectPath: Library/Artifacts/a3/a3efa46c00edf779461cd91e85e1e5c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/ab/ab3c5bb89c67895938f8c42c974a2475
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/ab/ab3c5bb89c67895938f8c42c974a2475
+    projectPath: Library/Artifacts/ab/ab3c5bb89c67895938f8c42c974a2475
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/ad/ad138f6745c15dd677719a4e876c7a81
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/ad/ad138f6745c15dd677719a4e876c7a81
+    projectPath: Library/Artifacts/ad/ad138f6745c15dd677719a4e876c7a81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/ad/adaa6db72b5871f804832d85e419f14d
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/ad/adaa6db72b5871f804832d85e419f14d
+    projectPath: Library/Artifacts/ad/adaa6db72b5871f804832d85e419f14d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/ae/ae02561413cdbcca1a370067236ec6e5
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/ae/ae02561413cdbcca1a370067236ec6e5
+    projectPath: Library/Artifacts/ae/ae02561413cdbcca1a370067236ec6e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/b7/b7f7f9f2e10e0d3e4902ecb9d15845fb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/b7/b7f7f9f2e10e0d3e4902ecb9d15845fb
+    projectPath: Library/Artifacts/b7/b7f7f9f2e10e0d3e4902ecb9d15845fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/c1/c1aead4d59ccf95872f2e658c228790a
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/c1/c1aead4d59ccf95872f2e658c228790a
+    projectPath: Library/Artifacts/c1/c1aead4d59ccf95872f2e658c228790a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/cc/cceadc97e128e2a5de7079d678b4f5d2
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/cc/cceadc97e128e2a5de7079d678b4f5d2
+    projectPath: Library/Artifacts/cc/cceadc97e128e2a5de7079d678b4f5d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/d8/d83d62da46c68e822c34635a405305b1
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/d8/d83d62da46c68e822c34635a405305b1
+    projectPath: Library/Artifacts/d8/d83d62da46c68e822c34635a405305b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/e2/e2a30f8724c8fa8a9d66c77bcdb6ef76
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/e2/e2a30f8724c8fa8a9d66c77bcdb6ef76
+    projectPath: Library/Artifacts/e2/e2a30f8724c8fa8a9d66c77bcdb6ef76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/e4/e4d6ab3f8fa9bbde647ac31216d9ad34
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/e4/e4d6ab3f8fa9bbde647ac31216d9ad34
+    projectPath: Library/Artifacts/e4/e4d6ab3f8fa9bbde647ac31216d9ad34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/e6/e60d8b73f3e0bac834427d50a0a9f089
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/e6/e60d8b73f3e0bac834427d50a0a9f089
+    projectPath: Library/Artifacts/e6/e60d8b73f3e0bac834427d50a0a9f089
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/f2/f283910792176ac981f6274a196054d6
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/f2/f283910792176ac981f6274a196054d6
+    projectPath: Library/Artifacts/f2/f283910792176ac981f6274a196054d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/Artifacts/f6/f6e7b00e12f0a31f6eb0c0470be1d1f2
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/Artifacts/f6/f6e7b00e12f0a31f6eb0c0470be1d1f2
+    projectPath: Library/Artifacts/f6/f6e7b00e12f0a31f6eb0c0470be1d1f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/EditorSnapSettings.asset
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/EditorSnapSettings.asset
+    projectPath: Library/EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/SceneVisibilityState.asset
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/SourceAssetDB
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project (1)/Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Library/StateCache/SceneView/d69a67-mainStage.json
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Library/StateCache/SceneView/d69a67-mainStage.json
+    projectPath: Library/StateCache/SceneView/d69a67-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-0c046862aa1594774ace238ed6d24f06
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-0c046862aa1594774ace238ed6d24f06
+    projectPath: Temp/UnityTempFile-0c046862aa1594774ace238ed6d24f06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-11a33e55564084b9fa3c7a5dd9030f04
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-11a33e55564084b9fa3c7a5dd9030f04
+    projectPath: Temp/UnityTempFile-11a33e55564084b9fa3c7a5dd9030f04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-12a513f16d5b0480aae16378e5465d23
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-12a513f16d5b0480aae16378e5465d23
+    projectPath: Temp/UnityTempFile-12a513f16d5b0480aae16378e5465d23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-14b82f5f71a604fdca786b92f586a3d0
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-14b82f5f71a604fdca786b92f586a3d0
+    projectPath: Temp/UnityTempFile-14b82f5f71a604fdca786b92f586a3d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-16be73f7a3f64461bb1175c481a693e6
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-16be73f7a3f64461bb1175c481a693e6
+    projectPath: Temp/UnityTempFile-16be73f7a3f64461bb1175c481a693e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-295c0b936a6eb41269ce427cedc8f66c
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-295c0b936a6eb41269ce427cedc8f66c
+    projectPath: Temp/UnityTempFile-295c0b936a6eb41269ce427cedc8f66c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-3b802a1683cff4cf89c56ea903d07829
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-3b802a1683cff4cf89c56ea903d07829
+    projectPath: Temp/UnityTempFile-3b802a1683cff4cf89c56ea903d07829
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-3c1bc8c0b95bb489c88587666416ea6a
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-3c1bc8c0b95bb489c88587666416ea6a
+    projectPath: Temp/UnityTempFile-3c1bc8c0b95bb489c88587666416ea6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-44b76f07d91c04e648a677b6e6ea56d5
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-44b76f07d91c04e648a677b6e6ea56d5
+    projectPath: Temp/UnityTempFile-44b76f07d91c04e648a677b6e6ea56d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-44e211adf39ee4b6da9b030772a2541e
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-44e211adf39ee4b6da9b030772a2541e
+    projectPath: Temp/UnityTempFile-44e211adf39ee4b6da9b030772a2541e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-45a378b64b99e4102a1db684dac4aa8f
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-45a378b64b99e4102a1db684dac4aa8f
+    projectPath: Temp/UnityTempFile-45a378b64b99e4102a1db684dac4aa8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-4af091e774992458aae1be8e6de3839c
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-4af091e774992458aae1be8e6de3839c
+    projectPath: Temp/UnityTempFile-4af091e774992458aae1be8e6de3839c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-5860e646f36724e34bb5c03eee3f4074
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-5860e646f36724e34bb5c03eee3f4074
+    projectPath: Temp/UnityTempFile-5860e646f36724e34bb5c03eee3f4074
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-62c2084bccf9742c3a8ebbc90f06d4f9
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-62c2084bccf9742c3a8ebbc90f06d4f9
+    projectPath: Temp/UnityTempFile-62c2084bccf9742c3a8ebbc90f06d4f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-687a7ca11c84f46ac9313345ad7764ab
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-687a7ca11c84f46ac9313345ad7764ab
+    projectPath: Temp/UnityTempFile-687a7ca11c84f46ac9313345ad7764ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-7161d66c05b814a62989165a9d8cd012
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-7161d66c05b814a62989165a9d8cd012
+    projectPath: Temp/UnityTempFile-7161d66c05b814a62989165a9d8cd012
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-7fbb887cb46e042938767abbcf95a19a
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-7fbb887cb46e042938767abbcf95a19a
+    projectPath: Temp/UnityTempFile-7fbb887cb46e042938767abbcf95a19a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-8a162a7cbb41747f5bfca4c20851a691
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-8a162a7cbb41747f5bfca4c20851a691
+    projectPath: Temp/UnityTempFile-8a162a7cbb41747f5bfca4c20851a691
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-9fc69dd6e898b4e1eb97b4f34ac89492
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-9fc69dd6e898b4e1eb97b4f34ac89492
+    projectPath: Temp/UnityTempFile-9fc69dd6e898b4e1eb97b4f34ac89492
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-a08783804a4034378a5414d38565bbae
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-a08783804a4034378a5414d38565bbae
+    projectPath: Temp/UnityTempFile-a08783804a4034378a5414d38565bbae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-aaf5734c48f4c4fd2aa2a9e7efb33734
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-aaf5734c48f4c4fd2aa2a9e7efb33734
+    projectPath: Temp/UnityTempFile-aaf5734c48f4c4fd2aa2a9e7efb33734
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-e18ae6907388d4b38b567176c61c0123
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-e18ae6907388d4b38b567176c61c0123
+    projectPath: Temp/UnityTempFile-e18ae6907388d4b38b567176c61c0123
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-eed872dc79aad45b99df3f3b72f4ab5d
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-eed872dc79aad45b99df3f3b72f4ab5d
+    projectPath: Temp/UnityTempFile-eed872dc79aad45b99df3f3b72f4ab5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project (1)/Temp/UnityTempFile-fa620f7b3d3cf409eb6282211b149451
+    fullPath: /Users/juliusyang/Unity-AI-Racing-cars-with-waypoints/New Unity Project
+      (1)/Temp/UnityTempFile-fa620f7b3d3cf409eb6282211b149451
+    projectPath: Temp/UnityTempFile-fa620f7b3d3cf409eb6282211b149451
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
